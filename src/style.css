@@ -1,0 +1,98 @@
+* {
+  background-color: black;
+}
+
+body {
+  color: #4c24fc;
+  padding: 0 24px;
+  margin: 0;
+  height: 100vh;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.ask {
+  color: #e90b29fd;
+  font-family: 'Rock Salt', cursive;
+  font-size: 48px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+}
+
+.image {
+  background: transparent;
+  height: 510px; 
+  width: auto;
+  display: flex;
+  justify-content: center;
+}
+
+#theBtn {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  color: rgb(77, 73, 73);
+  background-color: rgb(41, 39, 39);
+  border-radius: 10px;
+  padding: 8px 12px;
+  width: auto;
+  height: auto;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: underline;
+}
+
+#theBtn:hover {
+  color: whitesmoke;
+  font-size: 28px;
+  transition: .3s;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#theBtn:active {
+  color: red;
+  font-size: 24px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.fortune {
+  color: rgb(77, 73, 73);
+  font-family: 'Nothing You Could Do', cursive;
+  display: flex;
+  justify-content: center;
+}
+
+.advice {
+  color: rgb(77, 73, 73);
+  font-family: 'Nothing You Could Do', cursive;
+  display: flex;
+  justify-content: center;
+}
+
+.luckyNumber {
+  color: rgb(77, 73, 73);
+  font-family: 'Nothing You Could Do', cursive;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
